@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(211, 207, 211);
+}
+
+.sec-section {
+  width: 30rem;
+  max-width: 90%;
+  background-color: thistle;
+  position: absolute;
+  left: 50%;
+  top: 250px;
+  transform: translate(-50%);
+  color: black;
+}
